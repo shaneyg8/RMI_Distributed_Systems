@@ -11,18 +11,16 @@
   </description>
 
 
-  <!-- A context is a variable with application wide scope-->
+   <!-- A context is a variable with application wide scope-->
   <context-param>
     <param-name>RMI_SERVER</param-name>
     <param-value>127.0.0.1</param-value>
   </context-param>
-
-
-
+  
   <!-- A servlet class must be bound to a name -->
   <servlet>
     <servlet-name>service-request-handler</servlet-name>
-    <servlet-class>ie.gmit.sw.ServiceHandler</servlet-class>
+    <servlet-class>ie.gmit.servlet.ServiceHandler</servlet-class>
     <load-on-startup>0</load-on-startup>
   </servlet>
   

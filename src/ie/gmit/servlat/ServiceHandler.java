@@ -1,4 +1,4 @@
-package ie.gmit.servlet;
+package ie.gmit.servlat;
 /**
 * @author Shane Gleeson
 */
