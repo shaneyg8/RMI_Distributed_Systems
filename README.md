@@ -18,7 +18,9 @@ For this project I created a Web application for a module called Distributed sys
 To run this application you need a War and Jar file which is given to you above. To run this application you will also need to have apache tomcat installed [http://tomcat.apache.org/](http://tomcat.apache.org/). Once all is complete you need to put the comparator.war into the webapps folder of apache tomcats installation folder, change the name to .zip and unzip the war file and then using the command line, go to the bin directory and type startup.bat which will start tomcat. Start the RMI server then by using the command line while navigating to the directory it's in java –cp ./string-service.jar ie.gmit.sw.StringServiceServant which will then start your server. Now go to your browser and type localhost:8080/comparator for the application to run.
 
 
+## Other project
 
+Started on one but got it all wrong and can be seen on my previous repository
 
 ## References
 -Worked in a group to try and understand this better and get my head around it 
