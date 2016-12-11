@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /build/
 =======
 =======
@@ -10,6 +11,8 @@
 >>>>>>> 1498a0f508c7aa3eb5a59e4b8e2cf36d7bf1e433
 =======
 >>>>>>> da567aec28cc915e0ccf31c1fe9decfe588d8007
+=======
+>>>>>>> db60bd12f3653e5aaefaf7321e64bc1e4b0cc694
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -25,6 +28,7 @@ hs_err_pid*
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a7a81d4ac41a0422ddcb75c92dcf8c164595395e
 =======
 >>>>>>> 48281a98f85a6867687dc79df7aa7f560161d73c
@@ -32,3 +36,5 @@ hs_err_pid*
 >>>>>>> 1498a0f508c7aa3eb5a59e4b8e2cf36d7bf1e433
 =======
 >>>>>>> da567aec28cc915e0ccf31c1fe9decfe588d8007
+=======
+>>>>>>> db60bd12f3653e5aaefaf7321e64bc1e4b0cc694
