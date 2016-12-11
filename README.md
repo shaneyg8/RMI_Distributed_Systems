@@ -1,5 +1,4 @@
 # RMI_Distributed_Systems
-# RMI String Comparison Application
 
 - **Student Name:** Shane Gleeson
 - **Student Number:** G00311793
