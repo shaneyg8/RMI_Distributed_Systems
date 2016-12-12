@@ -23,3 +23,4 @@ To run this application you need a War and Jar file which is given to you above.
 Started on one but got it all wrong and can be seen on my previous repository
 
 
+![UML](https://github.com/shaneyg8/RMI_Distributed_Systems/blob/master/UML.PNG)
