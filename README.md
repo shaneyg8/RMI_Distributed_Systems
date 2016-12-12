@@ -22,6 +22,4 @@ To run this application you need a War and Jar file which is given to you above.
 
 Started on one but got it all wrong and can be seen on my previous repository
 
-## References
--Worked in a group to try and understand this better and get my head around it 
--Christopher Weir
+
